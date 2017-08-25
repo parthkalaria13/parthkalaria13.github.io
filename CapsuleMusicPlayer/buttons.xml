@@ -1,3 +1,26 @@
-<hello>
-	<hihello>Hi Hello</hihello>
-</hello>
+[
+	{
+			"id": "1",
+			"name": "Message",
+			"text": "Message is here",
+			"p_button": "OK",
+			"n_button" : "cancel",
+			"link" : "cancel"
+	},
+	{
+			"id": "2",
+			"name": "AD",
+			"text": "",
+			"p_button": "",
+			"n_button" : "",
+			"link" : ""
+	},
+	{
+			"id": "3",
+			"name": "Gifts",
+			"text": "Message is here",
+			"p_button": "",
+			"n_button" : "",
+			"link" : "cancel"
+	}
+]
