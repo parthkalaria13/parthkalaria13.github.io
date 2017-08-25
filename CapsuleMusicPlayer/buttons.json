@@ -5,7 +5,8 @@
 			"text": "Message is here",
 			"p_button": "OK",
 			"n_button" : "cancel",
-			"link" : "cancel"
+			"link" : "cancel",
+			"show" : "true"
 	},
 	{
 			"id": "2",
@@ -13,7 +14,8 @@
 			"text": "",
 			"p_button": "",
 			"n_button" : "",
-			"link" : ""
+			"link" : "",
+			"show" : "true"
 	},
 	{
 			"id": "3",
@@ -21,6 +23,7 @@
 			"text": "Message is here",
 			"p_button": "",
 			"n_button" : "",
-			"link" : "cancel"
+			"link" : "cancel",
+			"show" : "true"
 	}
 ]
