@@ -5,7 +5,7 @@
 			"text": "Message is here",
 			"p_button": "OK",
 			"n_button" : "cancel",
-			"link" : "cancel",
+			"link" : "https://www.google.com/",
 			"show" : "true"
 	},
 	{
@@ -20,10 +20,10 @@
 	{
 			"id": "3",
 			"name": "Gifts",
-			"text": "Message is here",
+			"text": "",
 			"p_button": "",
 			"n_button" : "",
-			"link" : "cancel",
+			"link" : "Parth+Kalaria",
 			"show" : "true"
 	}
 ]
